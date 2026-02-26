@@ -5,6 +5,8 @@ __pycache__/
 *.log
 .vscode/
 .idea/
-Dataset/
-Weights/
-Results/
+Previous_Implementation/Dataset/
+Previous_Implementation/Weights/
+Previous_Implementation/Results/
+Revised_Implementation/data
+Revised_Implementation/results
